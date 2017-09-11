@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	}
+body{
+	padding:8px 8px 0 8px;
+	background:white;
+	}
+.wrapper{
+	padding:0 169px;
+	}
+header{
+	background:#dddddd;
+	margin-bottom:11px;
+	}
+.a{
+	background:#cccccc;
+	//text-align:center;
+	//padding:95px 0;
+	height:190px;
+	position:relative;
+	}
+.a p{
+	position:absolute;
+	top:50%;
+	left:50%;
+	}
+.banner{
+	background:#ff0000;
+	margin-bottom:11px;
+	}
+.content{
+	background:#008000;
+	margin-bottom:11px;
+	}
+.footer{
+	background:black;
+	}
